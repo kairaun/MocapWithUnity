@@ -14,6 +14,12 @@ pip install opencv-python
 pip install mediapipe==0.10.0
 ```
 
+# Unity version
+
+```
+Unity2020.3.30f1
+```
+
 Run the **Mediapipe Hand.py** first and make sure that your hands are in the camera capture field（that's important）
 
 Run the Unity Scene
